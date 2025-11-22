@@ -1,15 +1,14 @@
 
 # 📡 Mininet-Floodlight-Pathfinding
 
-This repository contains the files for setting up a custom Software-Defined Networking (SDN) environment using **Mininet** for network emulation and the **Floodlight Controller** for intelligent routing, specifically implementing a **K-shortest path finding** capability.
-
-The core functionality involves a custom Floodlight module that computes multiple optimized routes between any two switches in the network using **Yen's algorithm**, while also managing network partitioning into clusters and archipelagos.
-
-
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-1.24%2B-013243?logo=numpy&logoColor=white) 
 ![CVXPY](https://img.shields.io/badge/cvxpy-1.3%2B-green) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Viz-orange?logo=matplotlib&logoColor=white)
+
+This repository contains the files for setting up a custom Software-Defined Networking (SDN) environment using **Mininet** for network emulation and the **Floodlight Controller** for intelligent routing, specifically implementing a **K-shortest path finding** capability.
+
+The core functionality involves a custom Floodlight module that computes multiple optimized routes between any two switches in the network using **Yen's algorithm**, while also managing network partitioning into clusters and archipelagos.
 
 
 ## Description
